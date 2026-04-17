@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Generated files
+report.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
